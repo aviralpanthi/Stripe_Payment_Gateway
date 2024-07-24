@@ -1,5 +1,5 @@
 ﻿# Stripe Payment Gateway Project
- How to Integrate Stripe Pyament Gateway to PHP:
+##How to Integrate Stripe Pyament Gateway to PHP:
 
 Create a Stripe account: Go to stripe.com to create an account.
 Install the Stripe PHP library.
